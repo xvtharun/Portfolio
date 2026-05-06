@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# HR Analytics Portfolio
 
 ## 📌 Project Overview
 This project is an HR Analytics Dashboard created to analyze employee attrition, workforce demographics, job satisfaction, and department-wise employee trends.

@@ -14,6 +14,8 @@ The dashboard helps HR teams and management understand the major factors affecti
 
 ![HR Analytics Dashboard](hr_analytical_dashboard.png)
 
+https://www.youtube.com/watch?v=dOWOQHQkXXo
+
 ---
 
 ## 🎯 Objective
